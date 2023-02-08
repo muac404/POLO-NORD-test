@@ -7,10 +7,6 @@ body {
 .main-nav {
 }
 
-.hero img {
-  height: 300px;
-  object-fit: cover;
-}
 .promo-first {
   height: calc(100vh - 70px);
 }
@@ -19,5 +15,15 @@ body {
   height: 100vh;
   width: 100%;
   object-fit: contain;
+}
+
+.hero-img {
+  width: 100vw;
+  height: 100px;
+  /* background-image: url(img/LOVEBOX.png); */
+}
+
+.nav-main {
+  width: 100%;
 }
 /* TYPO */
