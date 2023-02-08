@@ -1,0 +1,23 @@
+/* RESET */
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.main-nav {
+}
+
+.hero img {
+  height: 300px;
+  object-fit: cover;
+}
+.promo-first {
+  height: calc(100vh - 70px);
+}
+
+.promo-first img {
+  height: 100vh;
+  width: 100%;
+  object-fit: contain;
+}
+/* TYPO */
