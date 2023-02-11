@@ -4,8 +4,6 @@ body {
   padding: 0;
   margin: 0;
 }
-.main-nav {
-}
 
 .promo-first {
   height: calc(100vh - 70px);
@@ -18,30 +16,33 @@ body {
 }
 .homepage {
   height: 100vh;
-  background-color: blueviolet;
+  /* background-color: blueviolet; */
 }
 
 .delivery {
   height: 100vh;
-  background-color: blue;
+  /* background-color: blue; */
 }
 
 .promo {
   height: 100vh;
-  background-color: red;
+  /* background-color: red; */
 }
 
 .delivery {
   height: 100vh;
-  background-color: blue;
+  /* background-color: blue; */
 }
 
 .franchising {
   height: 100vh;
-  background-color: blue;
+  /* background-color: blue; */
 }
 
 .nav-main {
   width: 100%;
 }
-/* TYPO */
+
+.homepage-con-sfondo {
+  /* background-image: url(img/great\ australian\ seafood\ -\ Easy\ As\ Aussie\ Seafood\ Platter.png); */
+}
